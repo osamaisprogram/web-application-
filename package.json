@@ -1,0 +1,17 @@
+{
+  "name": "node2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indx.js",
+  "scripts": {
+    "start": "nodemon indx.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
